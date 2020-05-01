@@ -1,0 +1,14 @@
+name: DepositGold
+version: 1.0
+main: me.nail181.natureside.depositgold.MainClass
+decription: Deposit gold and diamond for money
+depend: [Vault]
+commands:
+    deposit:
+        description: Deposit for money!
+        usage: /deposit [amount] [gold/diamond]
+    withdraw:
+        description: Withdraw gold or diamond!
+        usage: /withdraw [amount] [gold/diamond]
+   
+    
